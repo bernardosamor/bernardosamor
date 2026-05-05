@@ -1,6 +1,6 @@
 # Olá, meu nome é Bernardo Samôr, muito prazer! 👋
 
-Engenheiro e Analista de Dados em transição de carreira, focado em transformar grandes volumes de dados em decisões estratégicas. Tenho experiência no setor de mineração (Vale S.A.) com inteligência de mercado e planejamento de vendas globais.
+Engenheiro Químico e Analista de Dados em transição de carreira, focado em transformar grandes volumes de dados em decisões estratégicas. Tenho experiência no setor de mineração (Vale S.A.) com inteligência de mercado e planejamento de vendas globais.
 
 ## 🚀 Sobre Mim
 - 🎓 **Formação:** Engenharia Química.
