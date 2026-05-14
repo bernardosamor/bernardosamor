@@ -4,7 +4,7 @@ Engenheiro Químico e Analista de Dados em transição de carreira, focado em tr
 
 ## 🚀 Sobre Mim
 - 🎓 **Formação:** Engenharia Química.
-- 🎯 **Objetivo:** Atuar como Analista de Dados Junior, utilizando Python e SQL para resolver problemas de negócio com foco no setor comercial.
+- 🎯 **Objetivo:** Atuar como Analista de Dados Junior, utilizando Python, SQL e Power BI para resolver problemas de negócio com foco no setor comercial.
 - 🛠️ **Background:** Vivência em planejamento estratégico e análise de mercado de minério de ferro.
 
 ## 🛠️ Tecnologias e Ferramentas
@@ -16,16 +16,13 @@ Engenheiro Químico e Analista de Dados em transição de carreira, focado em tr
 
 ### [📈 Modelo de Predição de Churn](https://github.com/bernardosamor/Estudo-de-Churn-)
 Análise preditiva para identificar gatilhos de cancelamento em modelos SaaS. 
-- **Tech stack:** Python, Pandas, Scikit-learn.
+- **Tech stack:** Excel, Tabela Dinâmica.
 - **Insight:** Identifiquei que o método de pagamento era um dos principais drivers de atrito.
 
-### [🚛 Análise de Telemetria de Frota](link-do-seu-repositorio)
-Ferramenta para identificar anomalias de consumo de combustível em uma frota de 384 veículos.
-- **Tech stack:** Python, Processamento de dados de telemetria.
+### [📊 Projeto ETL de escolha estratégica de filmes para serviço de straming](https://github.com/bernardosamor/Projeto-ETL-Listagem-estrat-gica-de-filmes-para-renova-o-de-cat-logo-em-servi-o-de-streaming)
+Dashboard para apresentar 10 filmes escolhidos a partir de métricas de desempenho e rentabilidade para atrair novos assinantes ao serviço.
+- **Tech stack:** SQL, Power BI, Visualização de dados.
 - **Resultado:** Otimização da eficiência operacional através da detecção de outliers.
-
-### [🛒 Retail API & Dashboard](link-do-seu-repositorio)
-Projeto End to End com integração de dados de varejo via API para visualização em tempo real de métricas de vendas.
 
 ---
 
