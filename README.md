@@ -14,6 +14,12 @@ Engenheiro Químico com experiência em planejamento comercial e inteligência d
 
 ## 📂 Projetos em Destaque
 
+
+### [🚀 Avaliação de construção de complexos imobiliários em Belo Horizonte](https://github.com/bernardosamor/Pipeline-SQL-Power-BI-Python-)
+Projeto de pipeline integrando 3 plataformas diferentes. Cruzamento de dados de fontes distintas, tratamento de mojibakes e normalização de dados, modelagem de dados e storytelling visual, criação de agente de IA (Text-To-SQL) com UI via streamlit.
+- **Tech stack:** MySQL, Power BI & Python
+- **Resultado:** A matriz de atratividade indica o bairro Barro Preto como potencial local, payback de 9,51 anos (1,62x menor que a média) e custo de m2 ~R$ 7.170,00, mas principalmente pela localização privilegiada, garantindo demanda.
+
 ### [📊 Análise de LTV e Churn em E-commerce Olist:](https://github.com/bernardosamor/-E-Commerce-Logistics-Churn-Analysis-Olist-Dataset)
 Dashboard desenvolvido em cadeia ETL integrando SQL e Power BI para realizar diagnóstico de operação logística e financeira de exemplo no segmento de E-commerce nacional. 
 - **Tech stack:** SQL, Power BI.
@@ -23,11 +29,6 @@ Dashboard desenvolvido em cadeia ETL integrando SQL e Power BI para realizar dia
 Projeto de análise de dados de telemetria feita com Pandas e NumPy em que avaliei e a eficiência de aceleração por meio do coeficiente de entrada de ar no motor. Assim, estimei o quanto a baixa taxa de entrada impactou na aceleração dos veículos e o custo adicional que isso gerava dentro dos 10% piores da base de dados.
 - **Tech stack:** Python.
 - **Resultado:** Os veículos dentro do 10% piores apresentam um fator de desperdício de combustível 1.9x maior que veículos em pleno funcionamento, estimando que veículos críticos representam um custo de R$ 326.353,97 ao ano.
-
-### [📈 Modelo de Predição de Churn](https://github.com/bernardosamor/Estudo-de-Churn-)
-Análise preditiva para identificar gatilhos de cancelamento em modelos SaaS. 
-- **Tech stack:** Excel, Tabela Dinâmica.
-- **Insight:** Identifiquei que o método de pagamento era um dos principais drivers de atrito e realizei análise preditiva listando clientes em risco para ciclo seguinte.
 
 ---
 
