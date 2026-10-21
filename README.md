@@ -18,7 +18,7 @@ Engenheiro Químico com experiência em planejamento comercial e inteligência d
 ### [🚀 Avaliação de construção de complexos imobiliários em Belo Horizonte](https://github.com/bernardosamor/Pipeline-SQL-Power-BI-Python-)
 Projeto de pipeline integrando 3 plataformas diferentes. Cruzamento de dados de fontes distintas, tratamento de mojibakes e normalização de dados, modelagem de dados e storytelling visual, criação de agente de IA (Text-To-SQL) com UI via streamlit.
 - **Tech stack:** MySQL, Power BI & Python
-- **Resultado:** A matriz de atratividade indica o bairro Barro Preto como potencial local, payback de 9,51 anos (1,62x menor que a média) e custo de m2 ~R$ 7.170,00, mas principalmente pela localização privilegiada, garantindo demanda.
+- **Resultado:** A matriz de atratividade indica o bairro Belvedere como ponto atrativo, payback de 8,42 anos (1,44x menor que a média) e custo de m2 ~R$ 10.270,00. Se destaca mesmo no Top 5 menores tempos de payback por conta do seu menor custo de m2, mas principalmente, menor concorrência local com outros imóveis dentro dos elegíveis no Top 5.
 
 ### [📊 Análise de LTV e Churn em E-commerce Olist:](https://github.com/bernardosamor/-E-Commerce-Logistics-Churn-Analysis-Olist-Dataset)
 Dashboard desenvolvido em cadeia ETL integrando SQL e Power BI para realizar diagnóstico de operação logística e financeira de exemplo no segmento de E-commerce nacional. 
